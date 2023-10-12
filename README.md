@@ -13,7 +13,7 @@
 
 ### 2. Allow reading nutrition data
 
-- [health_permissions.xml](https://github.com/develop-hani/android-health-data/blob/main/app/src/main/res/layout/activity_main.xml)에서 데이터의 접근 권한을 추가
+- [health_permissions.xml](https://github.com/develop-hani/android-health-data/blob/main/app/src/main/res/values/health_permissions.xml)에서 데이터의 접근 권한을 추가
 - [AndroidManifest.xml](https://github.com/develop-hani/android-health-data/blob/main/app/src/main/AndroidManifest.xml)의 meta-data에서 접근 권한 배열을 읽어와서 등록하는 것을 확인할 수 있다.
 
 ### 3. Collect current nutrition data
