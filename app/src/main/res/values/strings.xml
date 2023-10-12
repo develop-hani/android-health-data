@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BIA Viewer</string>
+    <string name="permissions_menu_label">Request permissions</string>
+    <string name="not_supported_description">
+        Health Connect is only supported on Android devices running API level %1$d or above.
+    </string>
+    <string name="not_installed_description">
+        Health Connect is supported on this device, but is not currently installed.
+    </string>
+    <string name="body_composition">Body Composition</string>
+    <string name="weight">Weight</string>
+    <string name="fat_mass">Fat mass</string>
+    <string name="body_fat">Body fat</string>
+    <string name="bmi">BMI</string>
+    <string name="bmr">BMR</string>
+    <string name="food">Food</string>
+    <string name="no_data">--</string>
+    <string name="decimal_pattern">#.#</string>
+    <string name="percentage"> %\u0020</string>
+    <string name="calories"> Cal\u0020</string>
+    <string name="kilograms"> kg\u0020</string>
+    <string name="refresh">Refresh</string>
+    <string name="connect_to_health_connect">Connect to Health Connect</string>
+    <string name="permission_denied_short">All permissions are required.</string>
+    <string name="permission_denied">All permissions are required. If the permissions window does not appear, verify the permissions in the Health Connect app.</string>
+    <string name="permission_granted">All permissions granted. To change the permissions go to the Health Connect app.</string>
+</resources>
